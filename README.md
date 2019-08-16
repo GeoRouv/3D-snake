@@ -11,9 +11,9 @@ Follow the below instructions to get started with 3D-Snake source code:
 
 ## Screenshots
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot.PNG)
 
-![Screenshot](Screenshot2.png)
+![Screenshot](Screenshot2.PNG)
 
 
 ## Requirements
