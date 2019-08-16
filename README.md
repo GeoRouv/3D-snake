@@ -12,11 +12,11 @@ Follow the below instructions to get started with 3D-Snake source code:
 ## Screenshots
 
 <p align="center">
-  ![Screenshot](Screenshot1.png)
+  ![Screenshot](Screenshot.PNG)
 </p>
 
 <p align="center">
-  ![Screenshot](Screenshot2.png)
+  ![Screenshot](Screenshot2.PNG)
 </p>
 
 
