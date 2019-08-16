@@ -9,6 +9,17 @@ Follow the below instructions to get started with 3D-Snake source code:
 2. Download Source Code
 3. Open Project in Unity and Enjoy!
 
+## Screenshots
+
+<p align="center">
+  ![Screenshot](Screenshot1.png)
+</p>
+
+<p align="center">
+  ![Screenshot](Screenshot2.png)
+</p>
+
+
 ## Requirements
 
 Make sure you have the below requirements before starting:
