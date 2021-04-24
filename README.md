@@ -29,4 +29,4 @@ The snake doesn't really move. It is based on a spawning pool that creates snake
 
 ## Target Platform
 
-It's made for windows and 1920x1080 display but can be customizable if wanted.
+It's made for windows and 1920x1080 display but can be customized if desired.
