@@ -21,7 +21,7 @@ Follow the below instructions to get started with 3D-Snake source code:
 Make sure you have the below requirements before starting:
 
 - [Unity Game Engine](https://unity3d.com)
-- Basic Knowledge about Unity and C#
+- Basic knowledge in Unity and C#
 
 ## Implementation Notes
 
