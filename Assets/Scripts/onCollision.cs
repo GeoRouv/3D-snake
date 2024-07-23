@@ -11,7 +11,7 @@ public class onCollision : MonoBehaviour
         if (collision.gameObject.layer == 9 || collision.gameObject.layer == 17)
         {
             
-            //Edw kanw to explode
+            //This is where explosion happens
             Physics.IgnoreLayerCollision(9, 17);
             Physics.IgnoreLayerCollision(9, 9);
 
